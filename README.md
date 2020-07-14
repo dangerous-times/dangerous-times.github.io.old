@@ -8,4 +8,4 @@ These are dangerous times because we trust that Black Lives Matter has the capac
 
 I spotted 2 obvious errors that should have been spotted by the fact checkers for the Washington Post, I decided to look a little closer since I understand how to analyze data for errors.
 
-Sadly, my trust in our universities, government, Obama, LA Times, Washington Post and other news media has been replaced by the understanding that they lie or mislead us.
+Sadly, my trust in our universities, government, Obama, LA Times, Washington Post and other news media has been replaced by the understanding that they lie or mislead us.  
