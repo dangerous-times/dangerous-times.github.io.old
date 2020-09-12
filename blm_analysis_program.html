@@ -102,19 +102,26 @@
 
 <script>
 
+
+/*
+      var usPop = 328239523 / 1000000;   
+      var whitePop = 0.601 * usPop;
+      var blackPop = 0.133 * usPop;
+      var blackMalePop = 0.492 * blackPop;
+      var blackBoyPop = 0.223 * blackMalePop;
+      var blackMenPop = blackMalePop - blackBoyPop;
+      var hispanicPop = 0.183 * usPop;
+      var otherPop = usPop - whitePop - blackPop - hispanicPop;
+    function a(pop,data) {
+      for (b=0;b<data.length;b++) {
+        console.log(data[b]/pop)
+      }
+    }
+*/
+
   function updateArrests() {
     var width = 200;  // .graph above mm width
 
-/*
-    var usPop = 328239523 / 1000000;   
-    var whitePop = 0.601 * usPop;
-    var blackPop = 0.133 * usPop;
-    var blackMalePop = 0.492 * blackPop;
-    var blackBoyPop = 0.223 * blackMalePop;
-    var blackMenPop = blackMalePop - blackBoyPop;
-    var hispanicPop = 0.183 * usPop;
-    var otherPop = usPop - whitePop - blackPop - hispanicPop;
-*/
     var usPop = 328239523;   
     var whitePop = Math.round(0.601 * usPop);
     var blackPop = Math.round(0.133 * usPop);
@@ -123,18 +130,6 @@
     var blackMenPop = blackMalePop - blackBoyPop;
     var hispanicPop = Math.round(0.183 * usPop);
     var otherPop = usPop - whitePop - blackPop - hispanicPop;
-
-    259 24%
-    178 17%
-    406 38%
-
-    26 19%  0.6
-    27 20%  0.5
-    51 38%  0.3
-
-    54      67.500 
-
-
 
    
 
